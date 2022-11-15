@@ -22,3 +22,11 @@
   margin: 0;
 
 }
+
+.lightText{
+  color: #666;
+}
+
+.listItem{
+  margin: 0 0 1.25rem;
+}
